@@ -1,2 +1,2 @@
 # cursoguarabira
-Repositório dos cursos do guarabira 
+Repositório dos cursos do gringo
